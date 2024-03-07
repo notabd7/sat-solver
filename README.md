@@ -1,1 +1,1 @@
-The following is a simple implementation of an SAT solver. I found them interesting and used recursion to implement one. You need to download racket in order to run it. Here is the link: https://download.racket-lang.org/
+The following is a simple implementation of an SAT solver. I found them interesting and used recursion to implement one. You need to download Racket in order to run it. Here is the link: https://download.racket-lang.org/ . The original code contains comments breaking down everything and how I approached the problem. 
